@@ -1,0 +1,15 @@
+{
+    "redux-action-finder.modules": [
+        "dependency1",
+        "dependency2"
+    ],
+    "redux-aciton-finder.fileGlobs": [
+        "**/*Actions.js"
+    ],
+    "redux-aciton-finder.localFileGlobs": [
+        "**/*Actions.js"
+    ],
+    "redux-aciton-finder.localSourceDir": [
+        "src"
+    ]
+}
